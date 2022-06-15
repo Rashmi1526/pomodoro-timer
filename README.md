@@ -1,7 +1,7 @@
 # Pomodoro Timer
-:tomato: Pomodoro timer built with React
+ Pomodoro timer built with React
 
-### [Live Demo](https://luizbatanero.github.io/pomodoro-react/)
+
 
 ![Screenshot](screenshot.png)
 
